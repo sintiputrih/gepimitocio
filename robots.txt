@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gepimitocio.pages.dev/sitemap.xml
